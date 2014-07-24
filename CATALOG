@@ -7,7 +7,7 @@ Description: Mini tables of contents per chapter, part or section.
 Also mini lists of figures and tables.
 Titles are language dependent (via package options).
 License: LPPL 1.3
-LPPL maintenance status: author-maintained
+LPPL maintenance status: unmaintained
 Current Maintainer: Jean-Pierre F. Drucbert.
 
 This work consists of all the files listed in the `minitoc.l' file

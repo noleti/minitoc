@@ -1,4 +1,4 @@
-README file for the minitoc package, version 60 (2008/07/16)
+README file for the minitoc package, version 61 (2014/07/24)
 
 The minitoc package is useful to add mini-tables-of-contents (minitocs)
 at the beginning of every chapter. They are also minilofs and minilots.
@@ -15,6 +15,9 @@ The installation is now described in the INSTALL file and the
 minitoc.dtx file, as a chapter of the documentation.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+This package is no longer maintained, as the original
+author Jean-Pierre F. Drucbert passed away in 2009.
+
 Jean-Pierre F. Drucbert ONERA/Toulouse/SRI
 Office national d'\'etudes et de Recherches A\'erospatiales
 Centre de Toulouse
@@ -25,9 +28,4 @@ BP 4025
 F-31055 TOULOUSE CEDEX
 FRANCE
 
-Phone +33-05-62-25-25-15
-
-Email: jean-pierre.drucbert@onera.fr
-
-Please send me any (constructive) suggestions and comments.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
